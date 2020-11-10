@@ -1,0 +1,15 @@
+/*12234*/
+body {
+  font-size: 4vh;
+}
+
+p {
+  color: rgb(39, 172, 195);
+  font: 4vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.change {
+  color: rgb(122, 10, 145);
+  font-size: 5vh;
+}
